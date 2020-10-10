@@ -9,8 +9,9 @@ main ()
     cin>>times; cout<<endl;
 
     for (int i=0;i<times;i++)
-    {
-        cout<<"lol"<<endl;
-    }
+    {cout<<"lol"<<endl;}
+
+
+
     return 0;
 }
