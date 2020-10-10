@@ -5,6 +5,9 @@ main ()
 {
     int times;
 
+    // for - repeat for cerine amount of times
+    // while - repeat as long as sthng happens
+
     cout<<"how many times should it be repeated?"<<endl;
     cin>>times; cout<<endl;
 
